@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanjid25
 - 👀 I’m interested in data science and programming in general
-- 🌱 I’m currently working on my personal website [sanjid.net]
+- 🌱 I’m currently working on my personal website [ sanjid.net ]
 - 💞️ I’m looking to collaborate on a NextJS, Flutter project using Firebase
 - 📫 How to reach me contact@sanjid.net
 
