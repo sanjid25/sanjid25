@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @sanjidnet
 - 👀 I’m interested in data science and programming in general
 - 🌱 I’m currently working on my personal website [sanjid.net](https://sanjid.net)
-- 💞️ I’m looking to collaborate on a 
-  - NextJS or Flutter project using Firebase
-  - Visualising and dashboarding [Statistics New Zealand](https://www.stats.govt.nz/) data using Shiny R.
+- 💞️ I’m looking to collaborate on a creating a dataops solution with open source technologies
 - 📫 Please do not hesitate to contact@sanjid.net
 
 <!---
